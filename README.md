@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [WebKart](https://github.com/attainu/capstone-project-nitin-nagaraj-au26.git)
 
-- 🌱 I’m currently learning **React JS & NextJS**
+- 🌱 I’m currently learning **React, Redux & NextJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
