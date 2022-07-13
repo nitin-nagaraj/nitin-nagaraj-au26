@@ -35,6 +35,10 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nitin-nagaraj-au26)  
 
+### Watch the snake eating my contribution graph 😛
+
+![snake gif](https://github.com/nitin-nagaraj-au26/nitin-nagaraj-au26/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-nagaraj-au26&show_icons=true&locale=en&layout=compact" alt="nitin-nagaraj-au26" /></p>
