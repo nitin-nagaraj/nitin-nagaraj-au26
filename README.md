@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nnitin91@gmail.com**
 
-- ⚡ Fun fact **I'm an avid runner having completed over 25+ run events ranging from a 5k upto a marathon.**
+- ⚡ Fun fact **50% of Roger Federer's name is 'er'. Now you cannot unsee it** 😜 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
