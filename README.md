@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitin-nagaraj-au26
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning JS, React and NodeJS
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning JS, NodeJs and React
 - 💞️ I’m looking to collaborate on any projects on the full stack
 - 📫 How to reach me nnitin91@gmail.com
 
