@@ -43,4 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-nagaraj-au26&" alt="nitin-nagaraj-au26" /></p>
 
+![GitHub metrics](https://metrics.lecoq.io/nitin-nagaraj-au26)  
+
 
