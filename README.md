@@ -1,6 +1,5 @@
 
-<img align="center" alt="Coding" width="950" src="https://raw.githubusercontent.com/AsqarbekOlimov/AsqarbekOlimov/f14db3be136ef2368fc6ffb4a8f33a7880013f05/Coder.gif">
-
+<img align="center" alt="Coding" width="850" height="400" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
