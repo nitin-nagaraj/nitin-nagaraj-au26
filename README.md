@@ -1,4 +1,5 @@
-[![MasterHead](https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif)](www.nitinnagaraj.xyz)
+
+<img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
 
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
