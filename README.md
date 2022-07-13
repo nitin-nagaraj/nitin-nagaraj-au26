@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/AsqarbekOlimov/AsqarbekOlimov/f14db3be136ef2368fc6ffb4a8f33a7880013f05/Coder.gif">
+<img align="center" alt="Coding" width="950" src="https://raw.githubusercontent.com/AsqarbekOlimov/AsqarbekOlimov/f14db3be136ef2368fc6ffb4a8f33a7880013f05/Coder.gif">
 
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
