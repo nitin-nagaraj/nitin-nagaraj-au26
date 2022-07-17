@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/nnitin" target="blank"><img src="https://img.shields.io/twitter/follow/nnitin?logo=twitter&style=for-the-badge" alt="nnitin" /></a> </p>
 
-- 🔭 I’m currently working on [WebKart](https://github.com/attainu/capstone-project-nitin-nagaraj-au26.git)
+- 🔭 I’m currently working on [Weather-App](https://weather-app-nitin.netlify.app/)
 
 - 🌱 I’m currently learning **React, Redux & NextJS**
 
