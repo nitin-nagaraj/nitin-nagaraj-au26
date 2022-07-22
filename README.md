@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Web Development, Node/Express JS, React**
+- 💬 Ask me about **MERN Stack, Sports, Beer** 🍻
 
 - 📫 How to reach me **nnitin91@gmail.com**
 
