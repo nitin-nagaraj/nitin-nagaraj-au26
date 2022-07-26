@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="850" height="400" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.pngkey.com/png/full/306-3064446_developer-developer-png.png">
 
@@ -17,9 +17,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **MERN Stack, Sports, Beer** 🍻
+- 💬 Ask me about **MERN Stack, Sports & Beer** 🍻
 
-- 📫 How to reach me **nnitin91@gmail.com**
+- 📫 You can reach me on **nnitin91@gmail.com**
 
 - ⚡ Fun fact **50% of Roger Federer's name is 'er'. Now you cannot unsee it** 😜 
 
