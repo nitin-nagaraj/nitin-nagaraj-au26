@@ -19,9 +19,8 @@
 
 - 💬 Ask me about **MERN Stack, Sports & Beer** 🍻
 
-- 📫 You can reach me on **nnitin91@gmail.com**
+- 📫 You can reach me at **nnitin91@gmail.com**
 
-- ⚡ Fun fact **50% of Roger Federer's name is 'er'. Now you cannot unsee it** 😜 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
